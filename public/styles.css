@@ -114,7 +114,16 @@ li, .nav-bar-item {
     background-color: black;
 }
 
+.gallery{
+    background-color: black;
+}
+
 .title4{
+    color: white; 
+    padding-left: 7%;
+}
+
+.title5{
     color: white; 
     padding-left: 7%;
 }
